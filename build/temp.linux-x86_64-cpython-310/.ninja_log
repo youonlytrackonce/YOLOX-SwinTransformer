@@ -1,0 +1,3 @@
+# ninja log v5
+1	5956	1678811494217893938	/home/fatih/phd/YOLOX-SwinTransformer/build/temp.linux-x86_64-cpython-310/home/fatih/phd/YOLOX-SwinTransformer/yolox/layers/csrc/cocoeval/cocoeval.o	54908718d76aea1c
+1	6861	1678811495121887064	/home/fatih/phd/YOLOX-SwinTransformer/build/temp.linux-x86_64-cpython-310/home/fatih/phd/YOLOX-SwinTransformer/yolox/layers/csrc/vision.o	6934ef26f2fd5a57

@@ -33,9 +33,9 @@ class Exp(MyExp):
         self.data_num_workers = 2
         self.input_size = (640, 640)
         self.random_size = (20, 20)
-        self.data_dir = "/datasets/coco"
-        self.train_ann = "detection_train2017.json"
-        self.val_ann = "detection_val2017.json"
+        self.data_dir = "./datasets/trackeveryseason"
+        self.train_ann = "train.json"
+        self.val_ann = "val.json"
 
         # training config #
         self.basic_lr_per_img = 0.01 / 64.0
